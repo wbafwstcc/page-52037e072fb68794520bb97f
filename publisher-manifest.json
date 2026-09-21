@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5358559a67763e94cc214946",
+  "owner": "wbafwstcc",
+  "repo": "page-52037e072fb68794520bb97f",
+  "title": "v2ge",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "52037e072fb68794520bb97f",
+      "a": "v2ge",
+      "b": "2027最新官网",
+      "entity": "v2ge",
+      "brand": "v2ge",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3a40f531d48690eca30b11de236eff6d533885a3d1c162366f3f5f25a7593a5e",
+      "content": {
+        "primary_entity": "v2ge",
+        "keyword1": "v2ge",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，围绕多设备订阅与线路选择提供实用信息，基础版适合轻量使用，旗舰版与团队版覆盖更高流量和多终端场景，客户端配置按各系统文档完成即可。",
+          "AI_HERO_SUBTITLE": "跨境加速，按需选择套餐",
+          "AI_HERO_INTRO": "v2ge 为不同使用强度的用户准备了基础版、旗舰版与团队版三档订阅，从每月 100GB 到 1000GB 流量、3 台到 20 台设备在线，覆盖日常浏览、流媒体与游戏加速需求。",
+          "AI_VISUAL_TITLE": "v2ge 多档订阅任你选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖轻量到团队",
+          "AI_HIGHLIGHT_2": "年付方案节省月度支出",
+          "AI_HIGHLIGHT_3": "专属线路优化游戏与流媒体",
+          "AI_FEATURES_TITLE": "订阅前先了解这几点",
+          "AI_FEATURES_INTRO": "套餐差异主要体现在流量、设备数量和线路类型，按实际用量和设备数选择更合适。",
+          "AI_FEATURE_TITLE_1": "套餐按用量分级",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备，适合手机与电脑轻度使用；旗舰版 300GB 与 5 台设备，满足流媒体和游戏加速。",
+          "AI_FEATURE_TITLE_2": "设备数量决定档位",
+          "AI_FEATURE_TEXT_2": "同时在线设备较多时选团队版，每月 1000GB 流量与 20 台设备，支持企业定制路由和专属客户经理。",
+          "AI_FEATURE_TITLE_3": "年付更省月费",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，相比按月支付可减少长期使用成本。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "不同系统有对应的订阅客户端，可先确认设备型号与系统版本，再参照配置文档导入订阅。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别为 ¥150、¥350、¥850，可按流量和设备数选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选择套餐到完成配置，按步骤操作即可。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，在基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端支持情况，再准备订阅所需的配置信息。",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的配置文档导入订阅，完成后可在设备上查看连接状态。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定加速",
+          "AI_CLOSING_TEXT": "按流量与设备数挑选合适档位，再参考客户端文档完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备，按使用人数与流量选择即可。",
+          "AI_FAQ_ANSWER_2": "在对应客户端中导入订阅链接，按客户端文档完成配置。不同系统客户端界面略有差异，建议对照对应平台文档操作。",
+          "AI_FAQ_ANSWER_3": "同一订阅可同时连接的设备数量由套餐决定，基础版 3 台、旗舰版 5 台、团队版 20 台，超出数量可能影响连接。",
+          "AI_FAQ_ANSWER_4": "可以，旗舰版与团队版包含流媒体解锁权益，基础版解锁基础流媒体，具体支持范围视节点与平台而定。",
+          "AI_FAQ_ANSWER_5": "按年付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付可节省部分费用。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "v2ge 订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "一个订阅能同时连几台设备？",
+          "AI_FAQ_QUESTION_4": "套餐能解锁流媒体吗？",
+          "AI_FAQ_QUESTION_5": "按年付是否更划算？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bseyv.cn",
+    "host": "bseyv.cn"
+  },
+  "file_hashes": {
+    "index.html": "fbb6965df03050f75404951c5e151011cefc60c32c25013522051f57dc6cd003",
+    "sitemap.xml": "565a6f5723f0df33022426ae1194563153de2ab7a3c7cbca447c02c6d8a946b8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "57c4b767f70b6be3c60debcbef3d5f4abbec22accad303dbf422c02397ae2fda",
+    "robots.txt": "e0fd9147f1a5c6bde5519128c11d550255746692b35e6c5a1d0f5209af3a7122",
+    "57fc9755dde58df0fa979bd074b6ede1.txt": "7146830d96499d8d5e1f32dd1cc11e17f715a66684c0892337d30972153f2fa1"
+  },
+  "revision": "a981e852a0fb0c58eebfdf9a0d865f4090d2312c4e9f13dde41de457f201e902"
+}
